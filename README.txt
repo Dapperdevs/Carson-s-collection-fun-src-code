@@ -1,5 +1,7 @@
 READ ME
 
+v 1.0
+
 This is the open source code for A web games collection.
 
 If you have designed a minigame within the framework that you would like to see, please issue a pull request.
